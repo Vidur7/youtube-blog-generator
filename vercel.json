@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd youtube-blog-generator/frontend && npm install && npm run build",
+  "outputDirectory": "youtube-blog-generator/frontend/.next",
+  "framework": "nextjs",
+  "installCommand": "cd youtube-blog-generator/frontend && npm install"
+} 
